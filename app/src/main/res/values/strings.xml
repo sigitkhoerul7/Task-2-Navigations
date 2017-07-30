@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AndroidSlide</string>
+    <string name="action_setting">Setting</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_close">Close</string>
+    <string name="drawer_open">Open</string>
+
+    <!--navigation drawer item label-->
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_bublesort">BubbleSort</string>
+    <string name="nav_item_bubblcharesort">BubbleCharSort</string>
+    <string name="nav_item_Contac">Contac</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_bublesort</item>
+        <item>@string/nav_item_bubblcharesort</item>
+        <item>@string/nav_item_Contac</item>
+    </string-array>
+    <string name="title_Contac">Contac</string>
+    <string name="title_BubbleSort">BubbleSort</string>
+    <string name="title_BubbleCharSort">BubbleCharSort</string>
+    <string name="title_home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
